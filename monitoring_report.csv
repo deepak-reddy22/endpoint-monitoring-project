@@ -1,0 +1,6 @@
+time,name,url,status,response_time_ms,result,error
+2026-10-12 09:58:56,Example homepage,https://example.com,200,182.21,UP,
+2026-10-12 09:58:57,Google Homepage,https://google.com,200,932.63,UP,
+2026-10-12 09:58:57,Local service health,http://127.0.0.1:8000/health,200,1.82,UP,
+2026-10-12 09:58:57,Local dashboard,http://127.0.0.1:8000/,200,1.44,UP,
+2026-10-12 09:58:57,Local report API,http://127.0.0.1:8000/api/report,200,1.27,UP,

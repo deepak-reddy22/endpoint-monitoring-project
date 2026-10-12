@@ -1,0 +1,16 @@
+{
+  "timeout_seconds": 4,
+  "endpoints": [
+    {
+      "name": "Example homepage",
+      "url": "https://example.com",
+      "expected_status": 200
+    },
+    {
+      "name": "Local service health",
+      "url": "http://localhost:8000/health",
+      "expected_status": 200,
+      "timeout_seconds": 2
+    }
+  ]
+}

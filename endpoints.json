@@ -1,0 +1,34 @@
+{
+  "timeout_seconds": 4,
+  "endpoints": [
+    {
+      "name": "Example homepage",
+      "url": "https://example.com",
+      "expected_status": 200
+    },
+    {
+      "name": "Google Homepage",
+      "url": "https://google.com",
+      "expected_status": 200,
+      "timeout_seconds": 5
+    },
+    {
+      "name": "Local service health",
+      "url": "http://127.0.0.1:8000/health",
+      "expected_status": 200,
+      "timeout_seconds": 2
+    },
+    {
+      "name": "Local dashboard",
+      "url": "http://127.0.0.1:8000/",
+      "expected_status": 200,
+      "timeout_seconds": 2
+    },
+    {
+      "name": "Local report API",
+      "url": "http://127.0.0.1:8000/api/report",
+      "expected_status": 200,
+      "timeout_seconds": 2
+    }
+  ]
+}
