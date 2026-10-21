@@ -59,3 +59,58 @@
 2026-10-12 09:58:57,796 INFO Local service health is UP (1.82 ms)
 2026-10-12 09:58:57,797 INFO Local dashboard is UP (1.44 ms)
 2026-10-12 09:58:57,799 INFO Local report API is UP (1.27 ms)
+2026-10-12 11:24:47,511 INFO Example homepage is UP (239.97 ms)
+2026-10-12 11:24:48,704 INFO Google Homepage is UP (1191.87 ms)
+2026-10-12 11:24:48,706 ERROR Local service health is DOWN: [Errno 61] Connection refused
+2026-10-12 11:24:48,707 ERROR Local dashboard is DOWN: [Errno 61] Connection refused
+2026-10-12 11:24:48,708 ERROR Local report API is DOWN: [Errno 61] Connection refused
+2026-10-12 11:25:44,953 INFO Example homepage is UP (236.18 ms)
+2026-10-12 11:25:46,364 INFO Google Homepage is UP (1409.33 ms)
+2026-10-12 11:25:46,364 ERROR Local service health is DOWN: [Errno 61] Connection refused
+2026-10-12 11:25:46,365 ERROR Local dashboard is DOWN: [Errno 61] Connection refused
+2026-10-12 11:25:46,365 ERROR Local report API is DOWN: [Errno 61] Connection refused
+2026-10-12 11:25:47,181 INFO Example homepage is UP (294.91 ms)
+2026-10-12 11:25:48,425 INFO Google Homepage is UP (1242.79 ms)
+2026-10-12 11:25:48,425 ERROR Local service health is DOWN: [Errno 61] Connection refused
+2026-10-12 11:25:48,426 ERROR Local dashboard is DOWN: [Errno 61] Connection refused
+2026-10-12 11:25:48,426 ERROR Local report API is DOWN: [Errno 61] Connection refused
+2026-10-12 11:27:45,830 INFO Example homepage is UP (187.24 ms)
+2026-10-12 11:27:46,711 INFO Google Homepage is UP (881.18 ms)
+2026-10-12 11:27:46,712 ERROR Local service health is DOWN: [Errno 61] Connection refused
+2026-10-12 11:27:46,713 ERROR Local dashboard is DOWN: [Errno 61] Connection refused
+2026-10-12 11:27:46,714 ERROR Local report API is DOWN: [Errno 61] Connection refused
+2026-10-12 11:28:31,189 INFO Example homepage is UP (195.04 ms)
+2026-10-12 11:28:32,826 INFO Google Homepage is UP (1637.28 ms)
+2026-10-12 11:28:32,828 ERROR Local service health is DOWN: [Errno 61] Connection refused
+2026-10-12 11:28:32,829 ERROR Local dashboard is DOWN: [Errno 61] Connection refused
+2026-10-12 11:28:32,829 ERROR Local report API is DOWN: [Errno 61] Connection refused
+2026-10-12 11:29:50,578 INFO Example homepage is UP (460.12 ms)
+2026-10-12 11:29:51,631 INFO Google Homepage is UP (1052.55 ms)
+2026-10-12 11:29:51,633 INFO Local service health is UP (1.68 ms)
+2026-10-12 11:29:51,635 INFO Local dashboard is UP (1.91 ms)
+2026-10-12 11:29:51,637 INFO Local report API is UP (1.62 ms)
+2026-10-12 11:33:41,270 INFO Example homepage is UP (207.43 ms)
+2026-10-12 11:33:42,553 INFO Google Homepage is UP (1282.72 ms)
+2026-10-12 11:33:42,555 ERROR Local service health is DOWN: [Errno 61] Connection refused
+2026-10-12 11:33:42,556 ERROR Local dashboard is DOWN: [Errno 61] Connection refused
+2026-10-12 11:33:42,557 ERROR Local report API is DOWN: [Errno 61] Connection refused
+2026-10-12 11:34:33,395 INFO Example homepage is UP (200.42 ms)
+2026-10-12 11:34:34,373 INFO Google Homepage is UP (977.37 ms)
+2026-10-12 11:34:34,374 ERROR Local service health is DOWN: [Errno 61] Connection refused
+2026-10-12 11:34:34,374 ERROR Local dashboard is DOWN: [Errno 61] Connection refused
+2026-10-12 11:34:34,374 ERROR Local report API is DOWN: [Errno 61] Connection refused
+2026-10-12 11:35:01,611 INFO Example homepage is UP (551.68 ms)
+2026-10-12 11:35:02,774 INFO Google Homepage is UP (1162.95 ms)
+2026-10-12 11:35:02,775 ERROR Local service health is DOWN: [Errno 61] Connection refused
+2026-10-12 11:35:02,775 ERROR Local dashboard is DOWN: [Errno 61] Connection refused
+2026-10-12 11:35:02,775 ERROR Local report API is DOWN: [Errno 61] Connection refused
+2026-10-12 11:39:01,904 INFO Example homepage is UP (201.93 ms)
+2026-10-12 11:39:03,333 INFO Google Homepage is UP (1428.64 ms)
+2026-10-12 11:39:03,336 INFO Local service health is UP (1.96 ms)
+2026-10-12 11:39:03,338 INFO Local dashboard is UP (2.0 ms)
+2026-10-12 11:39:03,340 INFO Local report API is UP (1.71 ms)
+2026-10-12 12:26:08,926 INFO Example homepage is UP (189.3 ms)
+2026-10-12 12:26:10,004 INFO Google Homepage is UP (1077.64 ms)
+2026-10-12 12:26:10,004 ERROR Local service health is DOWN: [Errno 61] Connection refused
+2026-10-12 12:26:10,005 ERROR Local dashboard is DOWN: [Errno 61] Connection refused
+2026-10-12 12:26:10,005 ERROR Local report API is DOWN: [Errno 61] Connection refused
